@@ -1,0 +1,6 @@
+{
+  "name": "HospitAI - Ambient Workforce Management",
+  "description": "Frontline hotel ambient transcript intelligence system powered by Gemini 2.5 Flash, extracting clean task JSON, filtering small talk, and managing operational dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
